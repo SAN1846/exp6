@@ -1,0 +1,3 @@
+[submodule "summa"]
+	path = summa
+	url = https://github.com/SAN1846/summa.git
